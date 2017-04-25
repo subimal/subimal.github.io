@@ -1,1 +1,0 @@
-# subimal.github.io

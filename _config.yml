@@ -9,10 +9,10 @@
 title: Subimal's github repos
 email: subimal.deb#at#gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A blog of subimal's repos on github. 
+  A blog for subimal's repos on github. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: sd2981
+twitter_username: sujoy81
 github_username:  subimal
 
 # Build settings
